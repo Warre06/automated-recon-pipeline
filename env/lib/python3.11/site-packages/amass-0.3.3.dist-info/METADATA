@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: amass
+Version: 0.3.3
+Summary: Vendor libraries from cdnjs
+Home-page: https://github.com/jmsmkn/amass
+License: Apache-2.0
+Author: James Meakin
+Author-email: amass@jmsmkn.com
+Requires-Python: >=3.8
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: aiohttp
+Requires-Dist: beautifulsoup4
+Requires-Dist: click
+Requires-Dist: packaging
+Requires-Dist: tomlkit
+Project-URL: Repository, https://github.com/jmsmkn/amass
+Description-Content-Type: text/markdown
+
+# amass
+Vendor libraries from cdnjs
+

@@ -1,0 +1,3 @@
+[console_scripts]
+amass=amass.cli:cli
+
