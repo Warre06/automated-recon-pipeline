@@ -13,5 +13,9 @@ defaults = {
     'aquatone-scan-timeout':'900'
 }
 tool_paths = {
-    'aquatone':'/usr/bin/aquatone'
+    'aquatone':'/usr/bin/aquatone',
+    'tko-subs':'/home/kali/go/bin/tko-subs',
+    'tko-subs-dir': '/home/kali/go/pkg/mod/github.com/anshumanbh/tko-subs@v0.0.0-20210103051427-5fd34e856644/tko-subs',
+    'subjack':'/home/kali/go/bin/subjack',
+    'subjack-fingerprints':'/home/kali/go/pkg/mod/github.com/haccer/subjack@v0.0.0-20201112041112-49c51e57deab/fingerprints.json'
 }
